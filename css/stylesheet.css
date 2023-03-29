@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Gentium Book Plus';
+    src: url('../fonts/GentiumBookPlus.eot');
+    src: url('../fonts/GentiumBookPlus.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GentiumBookPlus.woff2') format('woff2'),
+        url('../fonts/GentiumBookPlus.woff') format('woff'),
+        url('../fonts/GentiumBookPlus.ttf') format('truetype'),
+        url('../fonts/GentiumBookPlus.svg#GentiumBookPlus') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Miltonian Tattoo';
+    src: url('../fonts/MiltonianTattoo-Regular.eot');
+    src: url('../fonts/MiltonianTattoo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/MiltonianTattoo-Regular.woff2') format('woff2'),
+        url('../fonts/MiltonianTattoo-Regular.woff') format('woff'),
+        url('../fonts/MiltonianTattoo-Regular.ttf') format('truetype'),
+        url('../fonts/MiltonianTattoo-Regular.svg#MiltonianTattoo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
